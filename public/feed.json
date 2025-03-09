@@ -17,11 +17,82 @@
     "date": "2021-11-19"
   },
   {
+    "id": "interview-for-balance-the-grind",
     "format": "blog",
     "url": "https://www.balancethegrind.co/interviews/sunil-sandhu-founder-ceo-at-in-plain-english/",
     "origin": "Balance the Grind",
     "title": "Interview for Balance the Grind",
     "date": "2021-10-22"
+  },
+
+  {
+    "id": "4-steps-to-improve-the-quality-of-your-writing",
+    "title": "4 Steps to Improve the Quality of Your Writing",
+    "date": "2022-08-17",
+    "origin": "In Plain English",
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=8hK-5loVx-k"
+  },
+
+  {
+    "id": "9-javascript-console-tips-that-will-improve-your-debugging-skills",
+    "title": "9 JavaScript Console Tips That Will Improve Your Debugging Skills",
+    "date": "2022-03-28",
+    "origin": "Bits and Pieces",
+    "format": "blog",
+    "url": "https://blog.bitsrc.io/9-javascript-console-tips-that-will-improve-your-debugging-skills-1899e37469d5"
+  },
+  {
+    "id": "state-of-js-2021-2022-what-we-learned-about-javascript-in-2022",
+    "title": "State of JS 2021-2022: What We Learned About JavaScript in 2022",
+    "date": "2022-02-22",
+    "origin": "Bits and Pieces",
+    "format": "blog",
+    "url": "https://blog.bitsrc.io/state-of-js-2021-2022-what-we-learned-about-javascript-in-2022-94eccb88a887"
+  },
+
+  {
+    "id": "i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2021-edition",
+    "title": "I created the exact same app in React and Vue. Here are the differences. [2021 Edition]",
+    "date": "2021-09-05",
+    "origin": "JavaScript In Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2021-edition-a7ebfc19a9d"
+  },
+
+  {
+    "id": "heres-a-list-of-technologies-i-wasted-my-time-learning-as-a-web-developer",
+    "title": "Here's a list of technologies I wasted my time learning as a web developer",
+    "date": "2021-09-19",
+    "origin": "JavaScript In Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/heres-a-list-of-technologies-i-wasted-my-time-learning-as-a-web-developer-e427d0bfafc3"
+  },
+
+  {
+    "id": "how-to-bypass-captchas-with-javascript",
+    "title": "How to Bypass Captchas with JavaScript",
+    "date": "2021-07-22",
+    "origin": "JavaScript In Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/how-to-bypass-captchas-with-javascript-13f6eb126f8"
+  },
+
+  {
+    "id": "remove-element-from-array-in-javascript",
+    "title": "Remove Element from Array in JavaScript",
+    "date": "2021-07-05",
+    "origin": "JavaScript In Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/remove-element-from-array-in-javascript-ff5a9ad7d5b9"
+  },
+  {
+    "id": "quick-way-to-create-light-dark-mode-with-css-custom-properties-and-javascript",
+    "title": "Quick way to create light/dark mode with CSS custom properties and JavaScript",
+    "date": "2021-03-18",
+    "origin": "In Plain English",
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=f9lACksFcCE"
   },
   {
     "id": "upgrade-your-javascript-debugging-with-these-tips",
@@ -41,7 +112,9 @@
     "format": "blog",
     "url": "https://javascript.plainenglish.io/how-performant-are-arrays-and-objects-in-javascript-c53fa0ea5b1c"
   },
+
   {
+    "id": "recursion-in-javascript-explained-properly",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=k1eXFQGl8nE&t",
     "origin": "In Plain English",
@@ -56,10 +129,10 @@
     "origin": "JavaScript In Plain English",
     "format": "blog",
     "url": "https://differ.blog/inplainenglish/this-is-how-recursion-should-be-taught-to-software-developers-5c2c40",
-
     "promoteAsNew": false
   },
   {
+    "id": "closures-in-javascript-practical-examples",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=1wzb7636jjI",
     "origin": "In Plain English",
@@ -76,6 +149,7 @@
     "url": "https://javascript.plainenglish.io/how-to-scrape-data-from-a-website-with-javascript-9c93bbb4de51"
   },
   {
+    "id": "factory-functions-in-javascript",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=rij0Li7etvM",
     "origin": "In Plain English",
@@ -92,6 +166,7 @@
     "url": "https://javascript.plainenglish.io/10-essential-github-repos-for-software-developers-6a42ebba279"
   },
   {
+    "id": "bind-call-and-apply-explained-in-javascript",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=ixLo_7qggm0",
     "origin": "In Plain English",
@@ -108,6 +183,7 @@
     "url": "https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2020-edition-36657f5aafdc"
   },
   {
+    "id": "classes-in-javascript-and-why-syntactic-sugar-is-fine",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=OWyFoe0gJQM",
     "origin": "In Plain English",
@@ -115,6 +191,7 @@
     "date": "2020-07-10"
   },
   {
+    "id": "more-loops-in-javascript",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=mrjb--4aiyE&t",
     "origin": "In Plain English",
@@ -122,6 +199,7 @@
     "date": "2020-06-26"
   },
   {
+    "id": "loops-in-javascript",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=EZYzmpPGy3E",
     "origin": "In Plain English",
@@ -129,6 +207,7 @@
     "date": "2020-06-12"
   },
   {
+    "id": "bits-bytes-and-missing-memory",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=H_EdOkbmBZM&t",
     "origin": "In Plain English",
@@ -136,6 +215,7 @@
     "date": "2020-05-28"
   },
   {
+    "id": "how-to-count-in-binary",
     "format": "video",
     "url": "https://www.youtube.com/watch?v=QDGK-FjhH6k&t",
     "origin": "In Plain English",
@@ -242,6 +322,7 @@
     "url": "https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56"
   },
   {
+    "id": "views-on-vue-podcast-episode-54-nuxt-with-sunil-sandhu",
     "format": "podcast",
     "url": "https://open.spotify.com/episode/5F6cJwLNSFZ61wx4PSsEdv?si=6cd21daae78442f0",
     "origin": "Views On Vue",
@@ -276,6 +357,7 @@
     "url": "https://javascript.plainenglish.io/real-life-use-cases-for-computed-properties-in-vue-js-5fdeecbeb3b3"
   },
   {
+    "id": "learn-how-to-use-vuex-by-building-an-online-shopping-website",
     "format": "blog",
     "url": "https://www.telerik.com/blogs/learn-how-to-use-vuex-by-building-an-online-shopping-website",
     "origin": "Telerik",

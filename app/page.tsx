@@ -50,16 +50,20 @@ export default function Home() {
 
       {/* Feed */}
       <main className="divide-y divide-black/10 dark:divide-white/10 mb-24 md:md-16">
-        {feed.map((item) => (
-          <FeedItem
-            key={item.id}
-            title={item.title}
-            date={item.date}
-            format={item.format}
-            url={item.url}
-            origin={item.origin}
-          />
-        ))}
+        {feed
+          .sort(
+            (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+          )
+          .map((item) => (
+            <FeedItem
+              key={item.id}
+              title={item.title}
+              date={item.date}
+              format={item.format}
+              url={item.url}
+              origin={item.origin}
+            />
+          ))}
       </main>
       <Footer />
     </div>
