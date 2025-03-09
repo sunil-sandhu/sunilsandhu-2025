@@ -44,7 +44,7 @@ export default function Footer() {
   ];
 
   return (
-    <footer className="fixed bottom-0 left-0 right-0 bg-white py-8 mt-16 border-t border-black/10 dark:border-white/10">
+    <footer className="fixed bottom-0 left-0 right-0 bg-background py-8 mt-16 border-t border-black/10 dark:border-white/10">
       <div className="flex flex-wrap justify-center gap-x-8 gap-y-4 flex-row">
         {socialLinks.map((link) => (
           <Link

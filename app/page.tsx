@@ -20,7 +20,7 @@ export default function Home() {
         </div>
 
         <p className="text-lg text-black/70 dark:text-white/70 max-w-2xl">
-          Hey, I’m Sunil. You might know me as the founder of{" "}
+          Hey, I’m Sunil. You might know me from{" "}
           <a
             href="https://plainenglish.io"
             target="_blank"
@@ -43,8 +43,7 @@ export default function Home() {
         </p>
         <br />
         <p className="text-lg text-black/70 dark:text-white/70 max-w-2xl">
-          Thank you for being with me! Maybe check out my articles and videos if
-          you haven't already. I hope you will learn something new.
+          You can find a links to all of the content I've created below.
         </p>
       </header>
 
