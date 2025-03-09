@@ -1,0 +1,357 @@
+[
+  {
+    "id": "interview-for-dev-x-project",
+    "format": "blog",
+    "url": "https://www.livecycle.io/blogs/the-dev-x-project-sunil-sandhu",
+    "origin": "Livecycle Blog",
+    "title": "Interview for Dev-X Project",
+    "date": "2022-03-30",
+    "promoteAsNew": false
+  },
+  {
+    "id": "interview-for-notts-tv",
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=3MDoxo6fZbw",
+    "origin": "Notts TV",
+    "title": "Interview for Notts TV",
+    "date": "2021-11-19"
+  },
+  {
+    "format": "blog",
+    "url": "https://www.balancethegrind.co/interviews/sunil-sandhu-founder-ceo-at-in-plain-english/",
+    "origin": "Balance the Grind",
+    "title": "Interview for Balance the Grind",
+    "date": "2021-10-22"
+  },
+  {
+    "id": "upgrade-your-javascript-debugging-with-these-tips",
+    "title": "Upgrade Your JavaScript Debugging With These Tips",
+    "subtitle": "There's more to debugging than just console.log(). Just like how strings, arrays and objects have methods, console does too!",
+    "date": "2020-12-21",
+    "origin": "JavaScript In Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/upgrade-your-javascript-debugging-with-these-tips-8eecbc1c4312"
+  },
+  {
+    "id": "how-performant-are-arrays-and-objects-in-javascript",
+    "title": "How performant are Array methods and Object methods in JavaScript?",
+    "subtitle": "Analysing the Big O of various Array and Object methods",
+    "date": "2020-12-19",
+    "origin": "JavaScript In Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/how-performant-are-arrays-and-objects-in-javascript-c53fa0ea5b1c"
+  },
+  {
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=k1eXFQGl8nE&t",
+    "origin": "In Plain English",
+    "title": "Recursion in JavaScript Explained Properly",
+    "date": "2020-12-16"
+  },
+  {
+    "id": "we-need-to-reframe-how-we-learn-recursion",
+    "title": "We Need To Reframe How We Learn Recursion",
+    "subtitle": "It's about time we reframed the education of recursion around real life scenarios instead of elegant mathematical equations",
+    "date": "2020-12-03",
+    "origin": "JavaScript In Plain English",
+    "format": "blog",
+    "url": "https://differ.blog/inplainenglish/this-is-how-recursion-should-be-taught-to-software-developers-5c2c40",
+
+    "promoteAsNew": false
+  },
+  {
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=1wzb7636jjI",
+    "origin": "In Plain English",
+    "title": "Closures in JavaScript: Practical Examples",
+    "date": "2020-09-24"
+  },
+  {
+    "id": "how-to-scrape-data-from-a-website-with-javascript",
+    "title": "How to scrape data from a website with JavaScript",
+    "subtitle": "Use Node.js and Puppeteer to easily create a reusable tool for crawling, collecting, and scraping data",
+    "date": "2020-09-14",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/how-to-scrape-data-from-a-website-with-javascript-9c93bbb4de51"
+  },
+  {
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=rij0Li7etvM",
+    "origin": "In Plain English",
+    "title": "Factory Functions in JavaScript",
+    "date": "2020-09-06"
+  },
+  {
+    "id": "10-essential-github-repos-for-software-developers",
+    "title": "10 Essential GitHub Repos for Software Developers",
+    "subtitle": "A list of GitHub repositories that every software developer should know about",
+    "date": "2020-08-31",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/10-essential-github-repos-for-software-developers-6a42ebba279"
+  },
+  {
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=ixLo_7qggm0",
+    "origin": "In Plain English",
+    "title": "Bind, Call, and Apply explained in JavaScript",
+    "date": "2020-07-30"
+  },
+  {
+    "id": "i-created-the-exact-same-app-in-react-and-vue-2020-edition",
+    "title": "I created the exact same app in React and Vue. Here are the differences. [2020 Edition]",
+    "subtitle": "2020 Edition: Now with React Hooks vs Vue 3 + Composition API!",
+    "date": "2020-07-28",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2020-edition-36657f5aafdc"
+  },
+  {
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=OWyFoe0gJQM",
+    "origin": "In Plain English",
+    "title": "Classes in JavaScript (and why syntactic sugar is fine)",
+    "date": "2020-07-10"
+  },
+  {
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=mrjb--4aiyE&t",
+    "origin": "In Plain English",
+    "title": "More Loops in JavaScript",
+    "date": "2020-06-26"
+  },
+  {
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=EZYzmpPGy3E",
+    "origin": "In Plain English",
+    "title": "Loops in JavaScript",
+    "date": "2020-06-12"
+  },
+  {
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=H_EdOkbmBZM&t",
+    "origin": "In Plain English",
+    "title": "Bits, Bytes, and Missing Memory",
+    "date": "2020-05-28"
+  },
+  {
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=QDGK-FjhH6k&t",
+    "origin": "In Plain English",
+    "title": "How to count in binary",
+    "date": "2020-05-15"
+  },
+  {
+    "id": "three-ways-to-write-a-fibonacci-function-in-javascript",
+    "title": "Three ways to write a Fibonacci function in JavaScript",
+    "date": "2020-03-11",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/three-ways-to-write-a-fibonacci-function-in-javascript-a711db62788e"
+  },
+  {
+    "id": "javascript-for-absolute-beginners",
+    "title": "JavaScript For Absolute Beginners",
+    "subtitle": "The guide that I wish had existed when I first started learning how to code",
+    "date": "2020-02-15",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/javascript-for-absolute-beginners-519dca78ce4a"
+  },
+  {
+    "id": "nobody-cares-whether-you-used-imperative-or-declarative-programming",
+    "title": "Nobody Cares Whether You Used Imperative Or Declarative Programming",
+    "subtitle": "Okay, maybe some people do — but your computer doesn’t",
+    "date": "2020-02-03",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/nobody-cares-whether-you-used-imperative-or-declarative-programming-66c396ecce06"
+  },
+
+  {
+    "id": "how-i-share-react-components-between-projects",
+    "title": "How I share React components between projects",
+    "subtitle": "A simple way to share React components between projects",
+    "date": "2020-01-27",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/how-i-share-react-components-between-projects-3896d853cbee"
+  },
+
+  {
+    "id": "i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-london-web-perf",
+    "format": "video",
+    "url": "https://www.youtube.com/watch?v=dnNF8szmxXg",
+    "origin": "London Web Performance",
+    "title": "I created the exact same app in React and Vue. Here are the differences. [London Web Perf]",
+    "date": "2020-01-14"
+  },
+  {
+    "id": "i-created-the-exact-same-app-in-vue-and-svelte-here-are-the-differences",
+    "title": "I created the exact same app in Vue and Svelte. Here are the differences.",
+    "subtitle": "Vue vs Svelte. Finally, a side-by-side code comparison! Because you’ve heard the fuss about Svelte, and now you want to know what the hype is all about.",
+    "date": "2019-11-23",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/i-created-the-exact-same-app-in-vue-and-svelte-here-are-the-differences-c649f8d4ce0a"
+  },
+  {
+    "id": "i-created-the-exact-same-app-in-react-and-svelte-here-are-the-differences",
+    "title": "I created the exact same app in React and Svelte. Here are the differences.",
+    "subtitle": "React vs Svelte. Finally, a side-by-side code comparison! Because you’ve heard the fuss about Svelte, and now you want to know what the hype is all about.",
+    "date": "2019-11-21",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-svelte-here-are-the-differences-c0bd2cc9b3f8"
+  },
+  {
+    "id": "how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks",
+    "title": "How I reduced the code in my Redux app by using Redux Hooks",
+    "subtitle": "Here’s how you can simplify the Redux bindings in all of your components to help reduce your React Redux boilerplate",
+    "date": "2019-11-15",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/how-i-reduced-the-amount-of-code-in-my-redux-app-by-using-redux-hooks-b19c926419ea"
+  },
+  {
+    "id": "i-tested-a-react-app-with-jest-testing-library-and-cypress-here-are-the-differences",
+    "title": "I tested a React app with Jest, Enzyme, Testing Library and Cypress. Here are the differences",
+    "subtitle": "Finally, a side-by-side code comparison between the most popular testing tools for React. Watch as we attempt to write the exact same tests with Jest, Enzyme, Testing Library, and Cypress.",
+    "date": "2019-10-24",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/i-tested-a-react-app-with-jest-testing-library-and-cypress-here-are-the-differences-3192eae03850"
+  },
+  {
+    "id": "i-created-the-exact-same-app-with-react-and-redux-here-are-the-differences",
+    "title": "I created the exact same app in React and Redux. Here are the differences",
+    "subtitle": "A beginner’s guide to using Redux and a side-by-side code comparison of the exact app built in React with Redux and without Redux",
+    "date": "2019-10-15",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/i-created-the-exact-same-app-with-react-and-redux-here-are-the-differences-6d8d5fb98222"
+  },
+  {
+    "id": "i-created-the-exact-same-app-in-react-and-vue-2019-edition",
+    "title": "I created the exact same app in React and Vue. Here are the differences. [2019 Edition]",
+    "subtitle": "React vs Vue. Finally, a side-by-side code comparison between Vue and React! 🎉 [Updated and rewritten for 2019: Now with React Hooks]",
+    "date": "2019-09-28",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56"
+  },
+  {
+    "format": "podcast",
+    "url": "https://open.spotify.com/episode/5F6cJwLNSFZ61wx4PSsEdv?si=6cd21daae78442f0",
+    "origin": "Views On Vue",
+    "title": "#054: Nuxt with Sunil Sandhu [Views On Vue Podcast]",
+    "date": "2019-03-26"
+  },
+  {
+    "id": "how-to-use-foreach-in-javascript",
+    "title": "How to use forEach in JavaScript",
+    "subtitle": "Learn how to use forEach, how it differs from for loops and map, and when you should/shouldn’t use it",
+    "date": "2019-01-26",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/how-to-use-foreach-in-javascript-ac26b0c533b0"
+  },
+  {
+    "id": "the-web-developer-roadmap-for-2019",
+    "title": "The 2019 Web Developer Roadmap",
+    "subtitle": "Everything you should learn to become a successful Web Developer in 2019",
+    "date": "2018-12-02",
+    "origin": "Medium",
+    "format": "blog",
+    "url": "https://sunilsandhu.medium.com/the-web-developer-roadmap-for-2019-692cb02d36a4"
+  },
+  {
+    "id": "how-to-use-computed-properties-in-vue",
+    "title": "How to use computed properties in Vue",
+    "subtitle": "The examples in Vue’s docs aren’t practical. So here are some real-life examples of how to write and use computed properties in Vue",
+    "date": "2018-11-15",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/real-life-use-cases-for-computed-properties-in-vue-js-5fdeecbeb3b3"
+  },
+  {
+    "format": "blog",
+    "url": "https://www.telerik.com/blogs/learn-how-to-use-vuex-by-building-an-online-shopping-website",
+    "origin": "Telerik",
+    "title": "Learn How to Use Vuex by Building an Online Shopping Website",
+    "date": "2018-11-15"
+  },
+  {
+    "id": "3-advantages-of-react-functional-components-on-an-ecommerce-site",
+    "format": "blog",
+    "url": "https://blog.logrocket.com/react-functional-components-3-advantages-and-why-you-should-use-them-a570c83adb5e",
+    "origin": "LogRocket",
+    "title": "3 advantages of React functional components on an eCommerce site",
+    "date": "2018-11-08"
+  },
+  {
+    "id": "how-to-loop-through-arrays-in-react",
+    "title": "How to loop through arrays in React",
+    "date": "2018-10-27",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/how-to-loop-through-arrays-in-react-3eaa8a14445"
+  },
+  {
+    "id": "switching-to-parcel-from-webpack",
+    "format": "blog",
+    "url": "https://logrocket.com/blog/switching-to-parcel-from-webpack",
+    "origin": "LogRocket",
+    "title": "Switching to Parcel from Webpack",
+    "date": "2018-10-12"
+  },
+  {
+    "id": "how-to-emit-data-in-vue-beyond-the-vuejs-documentation",
+    "format": "blog",
+    "url": "https://www.telerik.com/blogs/how-to-emit-data-in-vue-beyond-the-vuejs-documentation",
+    "origin": "Progress Telerik",
+    "title": "How to Emit Data in Vue: Beyond the Vue.js Documentation",
+    "date": "2018-09-10"
+  },
+  {
+    "id": "what-is-hoisting-in-javascript",
+    "title": "What is Hoisting in JavaScript?",
+    "date": "2018-08-27",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1"
+  },
+  {
+    "id": "what-is-an-iife-in-javascript",
+    "title": "What is an IIFE in JavaScript?",
+    "date": "2018-08-15",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/https-medium-com-javascript-in-plain-english-stop-feeling-iffy-about-using-an-iife-7b0292aba174"
+  },
+  {
+    "id": "i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences",
+    "title": "I created the exact same app in React and Vue. Here are the differences.",
+    "date": "2018-07-24",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd"
+  },
+  {
+    "id": "how-to-use-map-filter-reduce-in-javascript",
+    "title": "How to use Map, Filter and Reduce in JavaScript",
+    "date": "2018-06-30",
+    "origin": "Differ",
+    "format": "blog",
+    "url": "https://differ.blog/inplainenglish/how-to-use-map-filter-and-reduce-in-javascript-82db98"
+  },
+  {
+    "id": "how-to-add-an-instagram-feed-to-your-website",
+    "title": "How to add an Instagram feed to your website 📷",
+    "date": "2017-11-15",
+    "origin": "JavaScript in Plain English",
+    "format": "blog",
+    "url": "https://javascript.plainenglish.io/the-simplest-way-to-add-your-very-own-custom-instagram-feed-to-your-site-c63f129140dc"
+  }
+]
