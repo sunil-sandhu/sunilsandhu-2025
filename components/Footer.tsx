@@ -34,6 +34,10 @@ export default function Footer() {
       href: "https://www.tiktok.com/@realsunilsandhu",
     },
     {
+      name: "BlueSky",
+      href: "https://bsky.app/profile/sunilsandhu.bsky.social",
+    },
+    {
       name: "Discord",
       href: "https://discord.gg/in-plain-english-709094664682340443",
     },
