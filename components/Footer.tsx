@@ -23,7 +23,7 @@ export default function Footer() {
     },
     {
       name: "YouTube",
-      href: "https://www.youtube.com/inplainenglishhq",
+      href: "https://www.youtube.com/@inplainenglish",
     },
     {
       name: "Instagram",
