@@ -43,23 +43,20 @@ export default function CCPage() {
                 />
               </Link>
               <Link href="#" className="text-blue-700 underline text-sm block">
-                Animated Pics
+                Minty
               </Link>
             </nav>
           </section>
           <section className="mb-4">
             <nav className="pl-1">
               <Link href="#" className="text-blue-700 underline text-sm block">
-                Chatroom 1
+                Linty
               </Link>
               <Link href="#" className="text-blue-700 underline text-sm block">
-                Chatroom 2 <span className="text-red-600">NEW!</span>
+                Milky <span className="text-red-600">NEW!</span>
               </Link>
               <Link href="#" className="text-blue-700 underline text-sm block">
-                Poke-Quiz
-              </Link>
-              <Link href="#" className="text-blue-700 underline text-sm block">
-                Webpolls
+                Cookie
               </Link>
             </nav>
           </section>
@@ -71,7 +68,7 @@ export default function CCPage() {
             />
             <nav className="pl-1">
               <Link href="#" className="text-blue-700 underline text-sm block">
-                Roms
+                pop holdin it down
               </Link>
               <Link href="#" className="text-blue-700 underline text-sm block">
                 Other downloads
@@ -148,10 +145,10 @@ export default function CCPage() {
             />
             <nav className="pl-1">
               <Link href="#" className="text-blue-700 underline text-sm block">
-                Games Section
+                Boss Baby Section
               </Link>
               <Link href="#" className="text-blue-700 underline text-sm block">
-                WWF Section
+                Kardashian Section
               </Link>
             </nav>
           </section>
