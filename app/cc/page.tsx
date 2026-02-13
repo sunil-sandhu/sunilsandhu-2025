@@ -12,7 +12,7 @@ export default function CCPage() {
         />
         <div className="px-4 py-3 text-black text-sm">
           <p>
-            <strong>Reached 1000 kisses in Sunday 26th November 2024!</strong>
+            <strong>Reached 1000 kisses on Tuesday 26th November 2024!</strong>
           </p>
           <p className="text-xs mt-0.5 text-black">
             Site created on Sunday 26th May 2024
