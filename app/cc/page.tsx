@@ -231,8 +231,9 @@ export default function CCPage() {
                     and I mean keep it.
                   </p>
                 </div>
+
                 <img
-                  src="/cc/gigglezzz-5x-rare-card.jpg"
+                  src="/cc/gigglezzz-rare-card.jpg"
                   alt="Gigglezzz"
                   className="w-64 md:w-48 flex-shrink-0 rounded-sm"
                 ></img>
