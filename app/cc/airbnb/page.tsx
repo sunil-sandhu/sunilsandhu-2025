@@ -18,7 +18,17 @@ const content = {
     checkinTime: "Check-in: 12:00 PM - 10:00 PM",
     checkoutDate: "Tuesday, Apr 21, 2026",
     checkoutTime: "Checkout by 11:00 AM",
-    itineraryCta: "View full itinerary",
+    itineraryCta: "Itinerary",
+    itineraryItems: [
+      "Rooftop drink",
+      "Tapas crawl",
+      "Stroll through a park",
+      "Try Mexican food in Spain",
+      "Souvenir shopping",
+      "Beach time",
+      "Spa day",
+      "Fancy dinner (at a surprise location and i will give you 'no clues')",
+    ],
     infoRows: [
       {
         label: "Address",
@@ -28,13 +38,11 @@ const content = {
       { label: "Guests", value: "2 adults", link: "Invite guests" },
       {
         label: "Cancellation policy",
-        value: "Cancelled less than 7 days before check-in.",
+        value: "We don't do cancellations around these parts",
       },
-      { label: "Payments", value: "Payment 1 of 1 · $ priceless!" },
       { label: "Amount paid (USD)", value: "$ priceless!" },
       { label: "Reservation code", value: "CC30BDAY" },
     ],
-    secondaryCta: "Change reservation",
     bullets: {
       houseRules: [
         "Check-in: 12:00 PM - 10:00 PM",
@@ -152,6 +160,12 @@ export default function AirbnbPage() {
             {content.email.itineraryCta}
           </button>
 
+          <ul className="mt-4 space-y-1 text-sm text-[#555]">
+            {content.email.itineraryItems.map((item) => (
+              <li key={item}>• {item}</li>
+            ))}
+          </ul>
+
           <div className="mt-6 space-y-5 text-sm">
             {content.email.infoRows.map((row) => (
               <div
@@ -168,11 +182,6 @@ export default function AirbnbPage() {
               </div>
             ))}
           </div>
-
-          <button className="mt-6 w-full border border-[#d9d9d9] bg-white px-4 py-3 text-sm">
-            {content.email.secondaryCta}
-          </button>
-
           <SimpleList
             title="House rules"
             items={content.email.bullets.houseRules}
