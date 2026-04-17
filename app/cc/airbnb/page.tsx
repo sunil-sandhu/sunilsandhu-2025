@@ -104,7 +104,11 @@ export default function AirbnbPage() {
         </section>
 
         <section className="mx-auto w-full max-w-[620px] p-5 md:p-8">
-          <p className="text-[13px] text-[#ff5a5f]">{content.email.brand}</p>
+          <img
+            src="/cc/airbnb/airbnb.png"
+            alt="airbnb"
+            className="h-10 w-auto"
+          />
           <h1 className="mt-2 text-[34px] leading-tight font-semibold text-[#222]">
             {content.email.title}
           </h1>
@@ -118,9 +122,18 @@ export default function AirbnbPage() {
               alt="Listing Image"
               className="w-full h-auto mb-2"
             />
-            <div className="p-4">
-              <p className="text-[18px]">{content.email.listingTitle}</p>
-              <p className="text-sm text-[#666]">{content.email.listingHost}</p>
+            <div className="p-4 flex">
+              <div className="flex-1">
+                <p className="text-[18px]">{content.email.listingTitle}</p>
+                <p className="text-sm text-[#666]">
+                  {content.email.listingHost}
+                </p>
+              </div>
+              <img
+                src="/cc/airbnb/host.png"
+                alt="host"
+                className="rounded-full w-16 h-16"
+              />
             </div>
           </div>
 
@@ -200,16 +213,25 @@ export default function AirbnbPage() {
             ))}
           </div>
 
-          <div className="mt-7 overflow-hidden rounded-sm border border-[#ddd]">
-            <div className="h-[140px] bg-[linear-gradient(135deg,#6f7f5f,#b8bf93)]" />
-            <div className="p-4 text-sm">
-              <p className="font-semibold">Refer a host, earn $60 cash</p>
-              <button className="mt-2 border border-white bg-black/70 px-3 py-1 text-xs text-white">
-                Learn more
-              </button>
-              <p className="mt-3 text-[#555]">
-                Get a friend to start hosting on Airbnb and make extra money.
-              </p>
+          <div className="relative mt-7 overflow-hidden rounded-sm border border-[#ddd]">
+            <img
+              src="/cc/airbnb/refer-a-host.png"
+              alt="refer"
+              className="w-full h-auto"
+            />
+            <div className="absolute inset-0 flex items-end">
+              <div className="w-full bg-gradient-to-t from-black/80 via-black/45 to-transparent p-4 text-sm text-white">
+                <p className="font-semibold">
+                  Refer a host, earn cash money dollar dollar bill clinton
+                </p>
+                <button className="mt-2 border border-white bg-black/70 px-3 py-1 text-xs text-white">
+                  Learn more
+                </button>
+                <p className="mt-3 text-white/90">
+                  Get a friend (or even a stranger) to start hosting on Airbnb
+                  and make extra money.
+                </p>
+              </div>
             </div>
           </div>
 
