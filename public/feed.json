@@ -1,5 +1,37 @@
 [
   {
+    "id": "messy-founder-interview-ive-failed-more-times-than-i-can-count",
+    "title": "I've failed more times than I can count (and I'm okay with that)",
+    "date": "2025-08-01",
+    "origin": "Messy Founder",
+    "format": "blog",
+    "url": "https://www.messyfounder.com/interviews/sunil"
+  },
+  {
+    "id": "that-time-i-tried-to-take-down-coding-bootcamps",
+    "title": "That time I tried to take down coding bootcamps",
+    "date": "2025-07-17",
+    "origin": "Differ",
+    "format": "blog",
+    "url": "https://differ.blog/p/that-time-i-tried-to-take-down-coding-bootcamps-af411b"
+  },
+  {
+    "id": "that-time-i-built-a-mental-health-app-for-nottingham-forest",
+    "title": "That time I built a mental health app for Nottingham Forest",
+    "date": "2025-06-11",
+    "origin": "Differ",
+    "format": "blog",
+    "url": "https://differ.blog/p/that-time-i-built-a-mental-health-app-for-nottingham-forest-0e9fe8"
+  },
+  {
+    "id": "that-time-i-went-viral",
+    "title": "That time I went viral...",
+    "date": "2025-05-30",
+    "origin": "Differ",
+    "format": "blog",
+    "url": "https://differ.blog/p/that-time-i-went-viral-509bbf"
+  },
+  {
     "id": "interview-for-dev-x-project",
     "format": "blog",
     "url": "https://www.livecycle.io/blogs/the-dev-x-project-sunil-sandhu",
