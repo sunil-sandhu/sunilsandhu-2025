@@ -16,9 +16,15 @@ export const metadata: Metadata = {
 
 const facts = [
   ["Full name", "Sunil Sandhu"],
-  ["Roles", "Founder & CEO, In Plain English · Founder of Obsurfable, Differ, Circuit, Stackademic · Creator of Messy Founder"],
+  [
+    "Roles",
+    "Founder & CEO, In Plain English · Founder of Obsurfable, Differ, Circuit, Stackademic · Creator of Messy Founder",
+  ],
   ["Based in", "Barcelona, Spain (originally from Nottingham, UK)"],
-  ["Focus areas", "Developer education, developer marketing, AI search visibility, audience-first entrepreneurship"],
+  [
+    "Focus areas",
+    "Developer education, developer marketing, AI search visibility, audience-first entrepreneurship",
+  ],
   ["Contact", "hello@sunilsandhu.com"],
 ];
 
@@ -35,10 +41,7 @@ export default function PressPage() {
           Everything you need to write about or feature Sunil Sandhu. Feel free
           to use the bios and facts below verbatim. For interviews, quotes, or
           high-resolution assets, get in touch at{" "}
-          <a
-            href={`mailto:${profile.email}`}
-            className="text-[var(--primary)]"
-          >
+          <a href={`mailto:${profile.email}`} className="text-[var(--primary)]">
             {profile.email}
           </a>
           .
@@ -51,7 +54,7 @@ export default function PressPage() {
           alt="Sunil Sandhu"
           width={96}
           height={96}
-          className="rounded-xl"
+          className="rounded-full"
         />
         <div className="text-sm text-black/60 dark:text-white/60">
           Placeholder avatar — a high-resolution headshot is available on
@@ -104,8 +107,8 @@ export default function PressPage() {
             marketing agency; Differ (2024), an algorithm-free blogging platform
             built for the AI era; and Obsurfable (2025), his current focus,
             which helps brands understand and improve how they appear inside AI
-            answers. In 2025 he also created Messy Founder, a community for real,
-            unpolished founder stories.
+            answers. In 2025 he also created Messy Founder, a community for
+            real, unpolished founder stories.
           </p>
           <p>
             A self-taught developer with a background in law, Sunil is a strong

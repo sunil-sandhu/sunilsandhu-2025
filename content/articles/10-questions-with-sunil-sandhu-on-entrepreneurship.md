@@ -42,7 +42,7 @@ Developers can smell fluff instantly. The only thing that works is being genuine
 
 **5. You built Stackademic during the pandemic. Why free?**
 
-Because I learned to code from free resources and I believe education should be accessible. With [Stackademic](https://stackademic.com) I built the platform, wrote the curriculum, taught the students, and marked the homework. It wasn't scalable, but it mattered.
+Because I think paid education is a scam. I learned to code from free resources and I believe education should be accessible. With [Stackademic](https://stackademic.com) I built the platform, wrote the curriculum, taught the students, and marked the homework. It wasn't scalable, but it mattered.
 
 **6. What's the biggest mistake you see founders make?**
 

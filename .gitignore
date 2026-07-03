@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+tmp/
+
+.autopilot.json
+after_each_chat.mdc

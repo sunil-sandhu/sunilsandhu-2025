@@ -13,7 +13,7 @@ export default function Home() {
             alt="Sunil Sandhu"
             width={80}
             height={80}
-            className="hover:rotate-360 transition-transform duration-300"
+            className="hover:rotate-360 transition-transform duration-300 rounded-full"
           />
           <h1 className="text-4xl sm:text-5xl font-bold text-[var(--primary)]">
             Sunil Sandhu

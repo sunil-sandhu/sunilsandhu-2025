@@ -94,7 +94,7 @@ In 2025 he also created Messy Founder, a community built on the belief that mome
 - Launched **Obsurfable** in **2025**; current focus; AEO/LLM visibility.
 - Created **Messy Founder** in **2025**.
 - Based in **Barcelona**, from **Nottingham, UK**.
-- Background: **LLB Law, Kingston University** `[VERIFY]`; self-taught developer; 10+ years in tech.
+- Background: **LLB Law, Kingston University**; self-taught developer; 10+ years in tech.
 - Metrics guidance: keep qualitative ("millions of monthly readers", "hundreds of thousands of monthly views"). Avoid publishing hard numbers unless verified.
 
 ---
