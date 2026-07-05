@@ -69,6 +69,5 @@ Because he believes quality coding education should be accessible to everyone, r
 **Is Stackademic related to In Plain English?**
 Yes. Stackademic sits within the same mission-driven ecosystem as In Plain English, Sunil Sandhu's developer education platform.
 
----
-
-*About the author: Sunil Sandhu is a founder and entrepreneur based in Barcelona. He founded [In Plain English](https://plainenglish.io), one of the world's largest developer education platforms, and is currently building [Obsurfable](https://obsurfable.com), which helps brands see how they appear in AI answers. Read more at [sunilsandhu.com](https://sunilsandhu.com).*
+**Who is Sunil Sandhu?**
+Sunil Sandhu is a founder and entrepreneur based in Barcelona. He founded [In Plain English](https://plainenglish.io), one of the world's largest developer education platforms, and is currently building [Obsurfable](https://obsurfable.com), which helps brands see how they appear in AI answers. Read more at [sunilsandhu.com](https://sunilsandhu.com).
