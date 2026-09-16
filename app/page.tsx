@@ -1,8 +1,15 @@
 import Link from "next/link";
 import feed from "@/public/feed.json";
 import FeedItem from "../components/FeedItem";
+import VentureLogoBanner from "../components/VentureLogoBanner";
+
+const RECENT_FEED_LIMIT = 20;
 
 export default function Home() {
+  const recentFeed = [...feed]
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+    .slice(0, RECENT_FEED_LIMIT);
+
   return (
     <div className="min-h-screen p-6 sm:p-8 md:p-12 lg:p-16 max-w-4xl mx-auto">
       {/* Introduction */}
@@ -91,7 +98,9 @@ export default function Home() {
           </Link>
           .
         </p>
-        <br />
+
+        <VentureLogoBanner />
+
         <p className="text-lg text-black/70 dark:text-white/70 max-w-2xl">
           Below you&apos;ll find links to the content I&apos;ve created over the
           years — you can also filter it down to just{" "}
@@ -108,20 +117,16 @@ export default function Home() {
 
       {/* Feed */}
       <main className="divide-y divide-black/10 dark:divide-white/10">
-        {[...feed]
-          .sort(
-            (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
-          )
-          .map((item) => (
-            <FeedItem
-              key={item.id}
-              title={item.title}
-              date={item.date}
-              format={item.format}
-              url={item.url}
-              origin={item.origin}
-            />
-          ))}
+        {recentFeed.map((item) => (
+          <FeedItem
+            key={item.id}
+            title={item.title}
+            date={item.date}
+            format={item.format}
+            url={item.url}
+            origin={item.origin}
+          />
+        ))}
       </main>
     </div>
   );

@@ -25,6 +25,11 @@ export type Venture = {
   description: string;
 };
 
+export function ventureFaviconUrl(url: string, size = 64): string {
+  const host = new URL(url).hostname;
+  return `https://www.google.com/s2/favicons?domain=${host}&sz=${size}`;
+}
+
 // Ordered by priority for the projects page (current focus first after the flagship).
 export const ventures: Venture[] = [
   {
@@ -80,6 +85,33 @@ export const ventures: Venture[] = [
     tagline: "Real, unpolished founder stories and community",
     description:
       "A community built on the belief that momentum beats perfection. Messy Founder is a home for real, unpolished founder stories — builders helping builders, without the highlight-reel pressure.",
+  },
+  {
+    name: "Venture Magazine",
+    year: 2024,
+    url: "https://venturemagazine.net",
+    role: "Founder",
+    tagline: "Publication for founders and indie hackers",
+    description:
+      "A publication for entrepreneurs, founders, indie hackers, and ambitious builders — sharing ideas, stories, lessons, and resources on startups, growth, and the realities of building something from nothing.",
+  },
+  {
+    name: "Cubed",
+    year: 2024,
+    url: "https://cubed.run",
+    role: "Founder",
+    tagline: "Insights on the technologies shaping the future",
+    description:
+      "A publication covering AI, crypto, Web3, software, and emerging technologies — practical insights and analysis for developers, founders, and curious builders, without the hype.",
+  },
+  {
+    name: "Notify",
+    year: 2024,
+    url: "https://notify.cx",
+    role: "Founder",
+    tagline: "Transactional email API for developers",
+    description:
+      "The minimum email infra for developers: send transactional email — password resets, onboarding, notifications, and receipts — observe delivery, and skip the template suite. Create an API key, verify your domain, and send.",
   },
 ];
 

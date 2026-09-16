@@ -1,16 +1,16 @@
 import type { Metadata } from "next";
-import { ventures, SITE_URL } from "@/app/lib/profile";
+import { ventures, ventureFaviconUrl, SITE_URL } from "@/app/lib/profile";
 import { JsonLd } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "Projects by Sunil Sandhu — Ventures & Companies",
   description:
-    "The projects and companies Sunil Sandhu has founded, including In Plain English, Obsurfable, Differ, Circuit, Stackademic, and Messy Founder.",
+    "The projects and companies Sunil Sandhu has founded, including In Plain English, Obsurfable, Differ, Circuit, Stackademic, Messy Founder, Venture Magazine, Cubed, and Notify.",
   alternates: { canonical: "/projects" },
   openGraph: {
     title: "Projects by Sunil Sandhu",
     description:
-      "The ventures Sunil Sandhu has founded: In Plain English, Obsurfable, Differ, Circuit, Stackademic, and Messy Founder.",
+      "The ventures Sunil Sandhu has founded: In Plain English, Obsurfable, Differ, Circuit, Stackademic, Messy Founder, Venture Magazine, Cubed, and Notify.",
     url: `${SITE_URL}/projects`,
   },
 };
@@ -57,8 +57,15 @@ export default function ProjectsPage() {
             rel="noopener noreferrer"
             className="group block rounded-xl border border-black/10 dark:border-white/10 p-6 transition-colors hover:border-[var(--primary)] hover:bg-black/[.02] dark:hover:bg-white/[.02]"
           >
-            <div className="flex items-baseline justify-between gap-4 mb-2">
-              <h2 className="text-2xl font-semibold group-hover:text-[var(--primary)] transition-colors">
+            <div className="flex items-center justify-between gap-4 mb-2">
+              <h2 className="flex items-center gap-2.5 text-2xl font-semibold group-hover:text-[var(--primary)] transition-colors">
+                <img
+                  src={ventureFaviconUrl(v.url, 64)}
+                  alt=""
+                  width={24}
+                  height={24}
+                  className="w-6 h-6 rounded-sm shrink-0"
+                />
                 {v.name}
               </h2>
               <span className="text-sm text-black/50 dark:text-white/50 whitespace-nowrap">

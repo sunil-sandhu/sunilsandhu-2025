@@ -53,6 +53,9 @@ In 2025 he also created Messy Founder, a community built on the belief that mome
 | Stackademic | 2020 | Founder & Teacher | https://stackademic.com | A free coding bootcamp built and taught during the pandemic. |
 | Circuit | 2022 | Founder | https://circuit.ooo | Developer marketing agency for devtool & SaaS startups. |
 | Differ | 2024 | Founder | https://differ.blog | Algorithm-free blogging platform built for the AI era. |
+| Venture Magazine | 2024 | Founder | https://venturemagazine.net | Publication for founders and indie hackers. |
+| Cubed | 2024 | Founder | https://cubed.run | Insights on the technologies shaping the future. |
+| Notify | 2024 | Founder | https://notify.cx | Transactional email API for developers. |
 | Obsurfable | 2025 | Founder | https://obsurfable.com | AEO / LLM-visibility monitoring platform (current focus). |
 | Messy Founder | 2025 | Creator | https://messyfounder.com | Community for real, unpolished founder stories. |
 
